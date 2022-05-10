@@ -1,0 +1,7 @@
+filtered_words = ['北京','程序员','公务员','领导','牛比','牛逼','你娘','你妈','love','sex','jiangge']
+qwe = input()
+if qwe in filtered_words:
+    print('Freedom')
+else:
+    print("Human Rights")
+    
